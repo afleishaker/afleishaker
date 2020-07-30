@@ -26,7 +26,7 @@
   <p>
     <a href="https://www.disneystreaming.com/">
       <p><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="25px" height="25px" alt="DSS" /> Software Engineering Intern at Disney Streaming Services (Summer 2019, Summer 2020)</p>
-    </a>&nbsp;
+    </a>
     <a href="https://www.apptopia.com/">
       <p><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/apptopia.png" width="25px" height="25px" alt="Apptopia" /> Growth Marketing & Technical Intern at Apptopia (Summer 2018)</p>
     </a>
