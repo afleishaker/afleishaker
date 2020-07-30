@@ -14,7 +14,7 @@
   </p>
 </p>
 
-<table border="0">
+<table>
   <tr>
     <td>
       <p align="center">
@@ -50,4 +50,8 @@
 
 <p align="center">
   <h3>Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
+</p>
+
+<p align="right">
+  <h5><i>Psst!</i> Wondering how to do this? Huge credit to <a href="https://github.com/m0nica">Monica Powell</a>, an awesome software engineer and GitHub Star for her <a href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">article</a> that informed me of this new GitHub feature.</h5>
 </p>
