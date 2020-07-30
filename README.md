@@ -14,16 +14,17 @@
   </p>
 </p>
 
+<br>
 <table border="0">
   <tr>
     <td>
       <p align="center">
-        <h2>In my free time, you can likely find me doing one of the following...</h2>
+        <h3>In my free time, you can likely find me doing one of the following...</h3>
       </p>
     </td>
     <td>
       <p align="center">
-        <h2>I've worked in closed source tech that may not be found on this GitHub! Those roles include:</h2>
+        <h3>I've worked in closed source tech that may not be found on this GitHub! Those roles include:</h3>
       </p>
     </td>
   </tr>
@@ -47,7 +48,8 @@
     </td>
   </tr>
 </table>
+<br>
 
 <p align="center">
-  <h2>Finally, go check out my open source projects below! Thanks for visiting my profile!</h2>
+  <h3>Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
 </p>
