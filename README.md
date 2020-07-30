@@ -48,10 +48,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <h3>Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
-</p>
+<h3 align="center">Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
 
-<p align="right">
-  <h5><i>Psst!</i> Wondering how to do this? Huge credit to <a href="https://github.com/m0nica">Monica Powell</a>, an awesome software engineer and GitHub Star for her <a href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">article</a> that informed me of this new GitHub feature.</h5>
-</p>
+<h5 align="right"><i>Psst!</i> Wondering how to make a profile README? Huge credit to this <a href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">article</a> for the idea!</h5>
