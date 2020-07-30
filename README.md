@@ -14,7 +14,6 @@
   </p>
 </p>
 
-<br>
 <table border="0">
   <tr>
     <td>
@@ -48,7 +47,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 <p align="center">
   <h3>Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
