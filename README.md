@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
-  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at Brandeis University with a passion for programming, entrepreneurship, and civic tech.</h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.</h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
         <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/website.svg" width="20px" height="20px" alt="Website" /> Website
@@ -31,7 +31,7 @@
     <td>
       <p>
         <p>:studio_microphone: Singing in my Disney/musical theatre a cappella group, <a href="https://prosceniumacappella.com/">Proscenium</a>,</p>
-        <p>:handshake: Supporting my Brandeis peers as a peer academic advisor <a href="https://www.brandeis.edu/academic-services/advising/peer/roosevelt-fellows/index.html">Roosevelt Fellow</a>, or</p>
+        <p>:school: Supporting my Brandeis peers as a peer academic advisor <a href="https://www.brandeis.edu/academic-services/advising/peer/roosevelt-fellows/index.html">Roosevelt Fellow</a>, or</p>
         <p>:computer: Working in graphic design or coding some new idea here!</p>
       </p>
     </td>
