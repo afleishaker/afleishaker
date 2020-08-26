@@ -3,13 +3,13 @@
   <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.</h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
-        <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/website.svg" width="20px" height="20px" alt="Website" /> Website
+        :man_technologist: Website
       </a>&nbsp;
       <a href="http://adamfleishaker.com/assets/resume.pdf">
-        <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/resume.svg" width="20px" height="20px" alt="Resume" /> Resume
+        :page_facing_up: Resume
       </a>&nbsp;
       <a href="https://www.linkedin.com/in/adamfleishaker/">
-        <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/linkedin.svg" width="20px" height="20px" alt="LinkedIn" /> Linkedin
+        :briefcase: LinkedIn
       </a>
   </p>
 </p>
