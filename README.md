@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
-  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.<br><br>Upon my graduation in May, I'll be joining Disney Streaming Services as an Associate Software Engineer. <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="30px" height="30px" alt="DSS" /> </h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.<br><br>Upon my graduation in May, I'll be joining <a href="https://www.disneystreaming.com/">Disney Streaming Services</a> as an Associate Software Engineer. <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="30px" height="30px" alt="DSS" /> </h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
         :man_technologist: Website
@@ -38,7 +38,7 @@
     <td>
       <p>
         <a href="https://www.disneystreaming.com/">
-          <p><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="25px" height="25px" alt="DSS" /> Software Engineering Intern at Disney Streaming (Summer 2019 and Summer 2020)</p>
+          <p><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="25px" height="25px" alt="DSS" /> Software Engineering Intern at Disney Streaming Services (Summer 2019 and Summer 2020)</p>
         </a>
         <a href="https://www.apptopia.com/">
           <p><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/apptopia.png" width="25px" height="25px" alt="Apptopia" /> Growth Marketing & Technical Intern at Apptopia (Summer 2018)</p>
