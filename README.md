@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
-  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.</h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a double major in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.<br>Upon my graduation in May, I'll be joining Disney Streaming Services as an Associate Software Engineer. <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="30px" height="30px" alt="DSS" /> </h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
         :man_technologist: Website
