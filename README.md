@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
-  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a recent grad in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.<br><br>Upon my graduation in May, I'll be joining <a href="https://www.disneystreaming.com/">Disney Streaming Services</a> as an Associate Software Engineer. <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="30px" height="30px" alt="DSS" /> </h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a recent grad in Computer Science and Business at <a href="http://brandeis.edu">Brandeis University</a> with a passion for programming, entrepreneurship, and civic tech.<br><br>I'm currently working at <a href="https://www.disneystreaming.com/"><img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png" width="30px" height="30px" alt="DSS" /> Disney Streaming Services</a> as an Associate Software Engineer. </h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
         :man_technologist: Website
@@ -30,8 +30,7 @@
   <tr>
     <td>
       <p>
-        <p>:studio_microphone: Singing in my Disney/musical theatre a cappella group, <a href="https://prosceniumacappella.com/">Proscenium</a>,</p>
-        <p>:school: Supporting my Brandeis peers as a peer academic advisor <a href="https://www.brandeis.edu/academic-services/advising/peer/roosevelt-fellows/index.html">Roosevelt Fellow</a>, or</p>
+        <p>:studio_microphone: Singing a cappella and making covers of various tunes, or...</p>
         <p>:computer: Working in graphic design or coding some new idea here!</p>
       </p>
     </td>
