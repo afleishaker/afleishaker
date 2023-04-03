@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
-  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21 alum with a passion for civic tech, growth marketing, and helping others.<br><br>I'm currently working as a Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.</h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/wave.gif" width="30px" alt=":wave:"> I'm Adam, a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21 alum with a passion for devops, automation, growth marketing and helping others.<br><br>I'm currently working as a Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.</h2>
   <p align="center">
       <a href="https://adamfleishaker.com/">
         :man_technologist: Website
