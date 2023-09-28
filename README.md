@@ -1,7 +1,7 @@
-<h1>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"/>Hi there! I'm Adam.   
-</h1>
-<h3>
+<p>
+  <h3>Hi there! I'm Adam.</h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="32px" height="32px"/>
+</p>
+<p>
         I'm a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21
         alum with a passion for devops, automation, growth marketing and helping others.<br><br>I'm currently working as a
         Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.
