@@ -36,14 +36,8 @@
     <tr>
         <td>
             <p>
-                <p><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="25px" height="25px">
-</picture> Singing a cappella and making covers of various tunes, or...</p>
-                <p><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="25px" height="25px">
-</picture> Working in graphic design or coding some new idea here!</p>
+                <p><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="25px" height="25px"> Singing a cappella and making covers of various tunes, or...</p>
+                <p><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="25px" height="25px"> Working in graphic design or coding some new idea here!</p>
             </p>
         </td>
         <td>
