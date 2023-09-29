@@ -4,9 +4,14 @@ I'm a **software engineer**, **New Yorker**, and **<a href="http://brandeis.edu"
  
 I'm currently working as a **Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.**
 
-<h3><p align="center">
+### In my free time, you can likely find me...
+
+![🎶](assets/music.png) Singing a cappella and making covers of various tunes, or...
+
+![🤖](assets/robot.png) Working in graphic design or coding some new idea here!
+    <h4><p align="center">
     <a href="https://adamfleishaker.com/">
-        ![👨🏻‍💻](assets/technologist.png) **Website**
+     ![👨🏻‍💻](assets/technologist.png) **Website**
     </a>&nbsp;
     <a href="http://adamfleishaker.com/assets/resume.pdf">
         ![📄](assets/page.png) **Resume**
@@ -14,21 +19,8 @@ I'm currently working as a **Software Engineer II at <a href="https://www.disney
     <a href="https://www.linkedin.com/in/adamfleishaker/">
         ![💼](assets/briefcase.png) **LinkedIn**
     </a>
-</p></h3>
-
-### In my free time, you can likely find me...
-
-![🎶](assets/music.png) Singing a cappella and making covers of various tunes, or...</p>
-![🤖](assets/robot.png) Working in graphic design or coding some new idea here!</p>
-
-
-### Finally, go check out my open source projects below! 
-Thanks for visiting my profile!
-
-<p align="right">
+    </p></h4>
 
 > [!NOTE]
 > Wondering how to make a profile README? Huge credit to <a
 href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">this article for the idea!</a>
-
-</p>
