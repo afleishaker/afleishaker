@@ -8,17 +8,12 @@ I'm currently working as a **Software Engineer II at <a href="https://www.disney
 
 ### In my free time, you can likely find me...
 
-![🎶](assets/music.gif) Singing a cappella and making covers of various tunes, or...
-
-![🤖](assets/robot.gif) Working in graphic design or coding some new idea here!
+![🎶](assets/music.gif) Singing a cappella and making covers of various tunes, or working in graphic design or coding some new idea here! ![🤖](assets/robot.gif)
 
 ### For more information, check out my...
 
-![👨🏻‍💻](assets/technologist.gif) <a href="https://adamfleishaker.com/"> **Website**</a>
+![💼](assets/briefcase.png) <a href="https://www.linkedin.com/in/adamfleishaker/"> **LinkedIn**</a>, ![📄](assets/page.png) <a href="http://adamfleishaker.com/assets/resume.pdf"> **resume**</a>, or my ![👨🏻‍💻](assets/technologist.gif) <a href="https://adamfleishaker.com/"> **website**</a>!
 
-![📄](assets/page.png) <a href="http://adamfleishaker.com/assets/resume.pdf"> **Resume**</a>
-
-![💼](assets/briefcase.png) <a href="https://www.linkedin.com/in/adamfleishaker/"> **LinkedIn**</a>
 
 > [!NOTE]
 > Wondering how to make a profile README? Huge credit to <a
