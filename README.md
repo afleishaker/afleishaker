@@ -56,8 +56,10 @@
 
 <p align="center"><b>Finally, go check out my open source projects below! Thanks for visiting my profile!</b></p>
 
-<p align="right"><b><i><sup>Psst!</i> Wondering how to make a profile README? Huge credit to <a
-href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">this article for the idea!</a></b></p>
+<p align="right">
 
 > [!NOTE]
-> A test
+> Wondering how to make a profile README? Huge credit to <a
+href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">this article for the idea!</a>
+
+</p>
