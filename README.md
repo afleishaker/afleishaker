@@ -1,11 +1,11 @@
-# **Hi there! I'm Adam.**  ![👋](assets/wav.gif)
+# **Hi there! I'm Adam.**  ![👋](assets/wave.gif)
 
 I'm a **software engineer**, **New Yorker**, and **<a href="http://brandeis.edu">Brandeis University</a> '21 alum** with a passion for devops, automation, growth marketing and helping others.
 
 I'm currently working as a **Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.**
     <h4><p align="center">
 <a href="https://adamfleishaker.com/">
-![👨🏻‍💻](assets/technologis.gif) **Website**
+![👨🏻‍💻](assets/technologist.gif) **Website**
 </a>&nbsp;
 <a href="http://adamfleishaker.com/assets/resume.pdf">
 ![📄](assets/page.png) **Resume**
