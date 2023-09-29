@@ -1,60 +1,29 @@
-<p>
-<b>Hi there! I'm Adam.</b>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"><br><br>I'm a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21
-        alum with a passion for devops, automation, growth marketing and helping others.<br><br>I'm currently working as a
-        Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.
-    </h3>
-    <p align="center">
-        <a href="https://adamfleishaker.com/">
-            :man_technologist: Website
-        </a>&nbsp;
-        <a href="http://adamfleishaker.com/assets/resume.pdf">
-            :page_facing_up: Resume
-        </a>&nbsp;
-        <a href="https://www.linkedin.com/in/adamfleishaker/">
-            :briefcase: LinkedIn
-        </a>
-    </p>
+# **Hi there! I'm Adam.**  ![👋](assets/wave.png)
 
-<table>
-    <tr>
-        <td>
-            <p align="center">
-                <b>In my free time, you can likely find me...</b>
-            </p>
-        </td>
-        <td>
-            <p align="center">
-                <b>I've worked in closed source tech not on this GitHub, including...</b>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p>
-                <p><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="25px" height="25px"> Singing a cappella and making covers of various tunes, or...</p>
-                <p><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="25px" height="25px"> Working in graphic design or coding some new idea here!</p>
-            </p>
-        </td>
-        <td>
-            <p>
-                <a href="https://www.disneystreaming.com/">
-                    <p><img style="vertical-align:middle"
-                            src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/dss.png"
-                            width="25px" height="25px" alt="Disney Streaming"/> Software Engineering Intern at Disney
-                        Streaming (Summer 2019 and Summer 2020)</p>
-                </a>
-                <a href="https://www.apptopia.com/">
-                    <p><img style="vertical-align:middle"
-                            src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/apptopia.png"
-                            width="25px" height="25px" alt="Apptopia"/> Growth Marketing & Technical Intern at Apptopia
-                        (Summer 2018)</p>
-                </a>
-            </p>
-        </td>
-    </tr>
-</table>
+I'm a **software engineer**, **New Yorker**, and **<a href="http://brandeis.edu">Brandeis University</a> '21 alum** with a passion for devops, automation, growth marketing and helping others. 
+ 
+I'm currently working as a **Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.**
 
-<p align="center"><b>Finally, go check out my open source projects below! Thanks for visiting my profile!</b></p>
+<h3><p align="center">
+    <a href="https://adamfleishaker.com/">
+        ![👨🏻‍💻](assets/technologist.png) **Website**
+    </a>&nbsp;
+    <a href="http://adamfleishaker.com/assets/resume.pdf">
+        ![📄](assets/page.png) **Resume**
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/adamfleishaker/">
+        ![💼](assets/briefcase.png) **LinkedIn**
+    </a>
+</p></h3>
+
+### In my free time, you can likely find me...
+
+![🎶](assets/music.png) Singing a cappella and making covers of various tunes, or...</p>
+![🤖](assets/robot.png) Working in graphic design or coding some new idea here!</p>
+
+
+### Finally, go check out my open source projects below! 
+Thanks for visiting my profile!
 
 <p align="right">
 
