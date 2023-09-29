@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker">
+  <img src="https://raw.githubusercontent.com/afleishaker/afleishaker/master/assets/header.gif" alt="Adam Fleishaker" width="400px">
 </p>
 
 **_Hi there!_** ![👋](assets/wave.gif) I'm Adam, a **software engineer**, **New Yorker**, and **<a href="http://brandeis.edu">Brandeis University</a> '21 alum** with a passion for devops, automation, growth marketing and helping others.
