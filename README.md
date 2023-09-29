@@ -1,10 +1,5 @@
-<h1>Hi there! I'm Adam. <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture></h1>
-
 <p>
-        I'm a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21
+<b>Hi there! I'm Adam.</b>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"><br><br>I'm a software engineer, New Yorker, and <a href="http://brandeis.edu">Brandeis University</a> '21
         alum with a passion for devops, automation, growth marketing and helping others.<br><br>I'm currently working as a
         Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.
     </h3>
@@ -24,12 +19,12 @@
     <tr>
         <td>
             <p align="center">
-                <h3>In my free time, you can likely find me doing one of the following...</h3>
+                <b>In my free time, you can likely find me...</b>
             </p>
         </td>
         <td>
             <p align="center">
-                <h3>I've worked in closed source tech not on this GitHub, including...</h3>
+                <b>I've worked in closed source tech not on this GitHub, including...</b>
             </p>
         </td>
     </tr>
@@ -59,7 +54,10 @@
     </tr>
 </table>
 
-<h3 align="center">Finally, go check out my open source projects below! Thanks for visiting my profile!</h3>
+<p align="center"><b>Finally, go check out my open source projects below! Thanks for visiting my profile!</b></p>
 
-<h5 align="right"><i>Psst!</i> Wondering how to make a profile README? Huge credit to <a
-        href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">this article for the idea!</a></h5>
+<p align="right"><b><i><sup>Psst!</i> Wondering how to make a profile README? Huge credit to <a
+href="https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme">this article for the idea!</a></b></p>
+
+> [!NOTE]
+> A test
