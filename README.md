@@ -8,7 +8,7 @@ I'm currently working as a **Software Engineer II at <a href="https://www.disney
 
 ### In my free time, you can likely find me...
 
-![🎶](assets/music.gif) Singing a cappella and making covers of various tunes, or desigining or coding some new idea here! ![🤖](assets/robot.gif)
+![🎶](assets/music.gif) Singing a cappella of various tunes, or desigining or coding some new idea here! ![🤖](assets/robot.gif)
 
 ### For more information, check out my...
 
