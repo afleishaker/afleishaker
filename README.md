@@ -4,7 +4,7 @@
 
 **_Hi there!_** ![👋](assets/wave.gif) I'm Adam, a **software engineer**, **New Yorker**, and **<a href="http://brandeis.edu">Brandeis University</a> '21 alum** with a passion for devops, automation, growth marketing and helping others.
 
-I'm currently working as a **Software Engineer II at <a href="https://www.disneystreaming.com/">Disney Streaming</a>.**
+I'm currently working as a **Sr. Software Engineer at <a href="https://www.disneystreaming.com/">Disney Entertainment & ESPN</a>.**
 
 ### In my free time, you can likely find me...
 
